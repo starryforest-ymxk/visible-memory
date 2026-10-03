@@ -1,0 +1,2 @@
+# The release manifest hashes exact bytes; preserve them across Git checkouts.
+* -text

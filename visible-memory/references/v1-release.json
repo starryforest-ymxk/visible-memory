@@ -1,0 +1,13 @@
+{
+  "release": "visible-memory-v1",
+  "files": {
+    "SKILL.md": "9c17634238ec5d47de101d105a3b9512cad1fbc2eab99d0ee61f5bb8b36ccc21",
+    "agents/openai.yaml": "778345eefe83f871dcf0fd25116888107078cb1e32508f4d1f4b5767f2f2150d",
+    "references/format.md": "cd389e0ee6c6a60ce76b14f9181ab01f6684aa84451133c217fe12c602a9a4aa",
+    "references/operations.md": "59581142118c055e5ff065cb3803a5297eb88add38ee4256b180d0556763e2ec",
+    "scripts/memory.py": "d4d8e6182f4e7e84404c743c8fbbd0fd979bfd4b95363e2887cc5ffa97eb709e",
+    "scripts/install.py": "151b4c86120be7b50a52dd39c7e9e585ac500bb6f0cbbca850c8ad0536e3eb65",
+    "tests/test_memory.py": "fd3075217fccdab2d6448778dbaac8d97f23aa5054a0cc9f0c105266f0c5adbd",
+    "tests/test_install.py": "7c5fa21dfed7337bc89123952cac42966438184e8dc7c8ef8decef11176eee75"
+  }
+}

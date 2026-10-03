@@ -1,0 +1,24 @@
+{
+  "app": "visible-memory",
+  "version": "2.0-installed",
+  "files": {
+    "SKILL.md": "c99a94155a05d2fd0fdc25b370408e86a58b01fbd8154f91389bc2a09d84d02b",
+    "agents/openai.yaml": "bfad3b674cef4c56ae1d1570dda6a813f991c3e8f549e30af9d4eead24ec12ea",
+    "references/format.md": "7b793e55099b76356336a81cceedb32a4b783e6dd36e8a0a3bd0e1a11d2adc13",
+    "references/operations.md": "3fb163f8bf4b745e2490eb2a3f5f466ae5b62175aed801879e0e48a7aea47436",
+    "references/v1-release.json": "9f0fac1161f9465affd15f144fb6903361a86d9f94ab09fea97d142991a2002a",
+    "scripts/install.py": "68483737dd3c517d6c23a08592c2479ff879ac86764e619912b2ad80fd687d26",
+    "scripts/memory_v1.py": "d4d8e6182f4e7e84404c743c8fbbd0fd979bfd4b95363e2887cc5ffa97eb709e",
+    "scripts/memory.py": "4c6256045c2dc895058317a5d457ab21d67109acae4e05b563cd1e9bd9285e26",
+    "scripts/vm_index.py": "6c084b26239a040509b7d7d1eeb60a814e543a13fe14d10482a493578e8b2f4f",
+    "scripts/vm_operations.py": "8d3580abbadc2e8c25980133009fd6528ad928e5134db969df01d294ffaea40e",
+    "scripts/vm_views.py": "f1484497ce8149f232132b06be81384eba6e7b874b677f108f62021b4fbb546e",
+    "tests/benchmark_v2.py": "e245208af7539adae64d51f5d04ebd1430bc8ce2c8f46cd8ceb362fc3e61f7f0",
+    "tests/test_core_v2.py": "d936a096a0e4f093d17ff09d98c924ceeae7b527a7610885da686f733ee26c01",
+    "tests/test_index_v2.py": "d14aea4125cdc1ce97fabc5c95ad4c3783c3f13a404fad3f9d7cd6fea2f8c846",
+    "tests/test_install.py": "7c5fa21dfed7337bc89123952cac42966438184e8dc7c8ef8decef11176eee75",
+    "tests/test_memory.py": "8527b135208080ec038ee693c6f0dce547c1d8e6523d72d1deda37cbd6bc304f",
+    "tests/test_upgrade_v2.py": "f5b327be39d155a62dacc328de2c52c7d1df3aa26fba2af210e765d8f003feb1",
+    "tests/test_views_v2.py": "8cb80c7551ffb1fbe1169721ca63ac14ca9f4b78333b0f66c0eef809bba8eb11"
+  }
+}

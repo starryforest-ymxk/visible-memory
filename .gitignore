@@ -1,0 +1,22 @@
+# Local release preparation and generated packages
+_release-work/
+dist/
+# Python and editor caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.vscode/
+# User configuration and memory data never belong in this source repository
+config.json
+config.lock
+entries/
+history/
+_state/
+_index/
+catalog/
+*.sqlite
+*.sqlite-*
+*.log
+Thumbs.db
+Desktop.ini

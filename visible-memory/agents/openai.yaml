@@ -1,0 +1,6 @@
+interface:
+  display_name: "可见记忆管理"
+  short_description: "按明确要求管理可见记忆，支持中文检索、历史恢复与可配置目录设置"
+  default_prompt: "请使用 $visible-memory 检索我明确指定主题的记忆，并附上来源和原文链接。"
+policy:
+  allow_implicit_invocation: true
